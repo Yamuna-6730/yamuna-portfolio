@@ -1,0 +1,127 @@
+{
+  "personal": {
+    "name": "Yamuna Latchipatruni",
+    "title": "Computer Science & Data Science Student",
+    "tagline": "Building intelligent solutions through code, data, and design thinking",
+    "email": "yamunal868@gmail.com",
+    "phone": "+91 9704216229",
+    "location": "Hyderabad, India",
+    "photo": "/profile.jpg",
+    "resumeUrl": "/resume.pdf",
+    "bio": "I'm a driven Computer Science and Data Science student, passionate about blending design thinking with technical acumen to build solutions that improve everyday experiences. With a strong foundation in machine learning, data analytics, and full-stack development, I thrive on transforming complex problems into elegant, scalable solutions.",
+    "shortBio": "Passionate about building scalable ML systems and solving real-world problems through continuous learning and structured execution."
+  },
+  "social": {
+    "linkedin": "https://www.linkedin.com/in/yamuna-latchipatruni-b7ba3928b/",
+    "github": "https://github.com/Yamuna-6730",
+    "leetcode": "https://leetcode.com/u/Yamuna05/"
+  },
+  "skills": {
+    "programming": ["Python", "C", "C++", "Java", "SQL"],
+    "machineLearning": [
+      "Supervised Learning",
+      "Unsupervised Learning",
+      "Deep Learning",
+      "Data Preprocessing",
+      "Statistical Analysis",
+      "Forecasting"
+    ],
+    "mlFrameworks": ["TensorFlow", "PyTorch", "Scikit-learn", "Pandas", "NumPy"],
+    "dataVisualization": ["Tableau", "Power BI", "Matplotlib", "Seaborn", "Excel"],
+    "webDevelopment": ["React.js", "Express", "Django", "Node.js", "MongoDB", "Firebase"],
+    "cloudAndTools": ["Google Cloud", "Vertex AI", "Firestore", "AWS", "Docker", "Git", "GitHub"]
+  },
+  "experience": [
+    {
+      "role": "Social Media Coordinator & Volunteer",
+      "company": "VJ Data Questers Club",
+      "location": "VNR VJIET",
+      "period": "2024 - Present",
+      "type": "Leadership",
+      "description": "Leading promotional strategies for AI/ML workshops and technical events, fostering community engagement among data science enthusiasts.",
+      "highlights": [
+        "Managed social media campaigns for AI/ML workshops",
+        "Coordinated technical events and community initiatives",
+        "Promoted data science awareness across campus"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech in Computer Science and Engineering",
+      "specialization": "Data Science",
+      "institution": "VNR VJIET",
+      "location": "Hyderabad",
+      "cgpa": "9.35/10",
+      "period": "2023 - 2027",
+      "status": "Current"
+    }
+  ],
+  "projects": [
+    {
+      "title": "AI Research Assistant",
+      "subtitle": "Semantic Retrieval System",
+      "description": "A FAISS-based vector search system with speech-to-text integration for efficient exploration of large research datasets. Features modular ML pipelines and visualization workflows for structured data querying.",
+      "technologies": ["FAISS", "Python", "Speech-to-Text", "ML Pipelines"],
+      "highlights": [
+        "Built semantic vector search with FAISS",
+        "Integrated speech-to-text for natural queries",
+        "Designed modular ML pipelines"
+      ],
+      "category": "Machine Learning",
+      "featured": true
+    },
+    {
+      "title": "Predictive Maintenance System",
+      "subtitle": "Anomaly Detection Platform",
+      "description": "Developed predictive models using LSTM, Autoencoders, and Isolation Forest on industrial sensor datasets. Features a Streamlit dashboard for real-time anomaly monitoring and decision support.",
+      "technologies": ["LSTM", "Autoencoders", "Isolation Forest", "Streamlit", "Python"],
+      "highlights": [
+        "Implemented LSTM for time-series prediction",
+        "Built anomaly detection with autoencoders",
+        "Created real-time monitoring dashboard"
+      ],
+      "category": "Deep Learning",
+      "featured": true
+    },
+    {
+      "title": "LegalEase",
+      "subtitle": "AI-Powered Legal Document Assistant",
+      "description": "A full-stack application using Django, React, and Google Cloud services. Features document summarization, keyword extraction, multilingual support, and secure authentication workflows.",
+      "technologies": ["Django", "React", "Google Cloud", "NLP", "Firebase"],
+      "highlights": [
+        "Document summarization with AI",
+        "Multilingual support integration",
+        "Secure authentication system"
+      ],
+      "category": "Full Stack",
+      "featured": true
+    }
+  ],
+  "achievements": [
+    {
+      "title": "JP Morgan Code for Good Winner",
+      "year": "2025",
+      "description": "Selected through rigorous coding and HireVue rounds; developed a winning technology solution for Reaching Roots NGO during the national-level hackathon.",
+      "type": "Hackathon",
+      "icon": "trophy"
+    },
+    {
+      "title": "Technovista Blogathon Winner",
+      "year": "2025",
+      "description": "Secured 1st place for a comprehensive technical blog on Deepfake Technology among all participating students.",
+      "type": "Competition",
+      "icon": "award"
+    }
+  ],
+  "strengths": [
+    "Hardworking",
+    "Disciplined",
+    "Adaptive Learner",
+    "Confident Communicator",
+    "Analytical Thinker",
+    "Team-Oriented",
+    "Proactive",
+    "Strong Time Management"
+  ]
+}
