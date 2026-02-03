@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website 🚀  
 Built to showcase my work, technical expertise, and passion for Computer Science & Data Science.
 
-🔗 **Live Website:** [Add your deployed link here]  
+🔗 **Live Website:** [Link](https://yamuna-portfolio-delta.vercel.app/)  
 📄 **Resume:** [Download Resume](./public/resume/Yamuna_Latchipatruni_Resume.pdf)
 
 ---
@@ -24,68 +24,62 @@ I believe in building solutions that are not just technically strong, but user-c
 
 ## 🛠 Tech Stack
 
-### 💻 Frontend
-- React / Next.js
-- TypeScript
-- Tailwind CSS
-- Framer Motion
+### 💻 Programming Languages
+- Python
+- C
+- C++
+- Java
+- SQL
 
-### ⚙ Backend
+---
+
+### 🧠 Machine Learning & AI
+- Supervised & Unsupervised Learning
+- Deep Learning (Basics)
+- Data Preprocessing
+- Statistical Analysis
+- Forecasting
+- Scikit-learn
+- TensorFlow
+- PyTorch
+- Pandas
+- NumPy
+
+---
+
+### 📊 Data Analytics & Visualization
+- Excel
+- Tableau
+- Power BI
+- Matplotlib
+- Seaborn
+- Data Cleaning & Modeling
+
+---
+
+### 🌐 Web Development
+- React.js
 - Node.js
 - Express.js
 - Django
+- MongoDB
+- Firebase
 - REST APIs
 
-### 🧠 AI & Data
-- Python
-- Scikit-Learn
-- Pandas
-- NumPy
-- OpenAI API
-- Google Cloud (Vertex AI)
+---
 
-### 🗄 Database
-- MongoDB
-- Firestore
-- MySQL
-
-### ☁ Deployment
-- Vercel / Netlify / GitHub Pages
+### ☁ Cloud & DevOps
+- Google Cloud (Vertex AI, Firestore)
+- AWS (Basics)
+- Docker (Basics)
 - Git & GitHub
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 LegalEase — AI Legal Document Simplifier
-AI-powered assistant that converts complex legal documents into plain-language explanations.
-- Document upload & categorization
-- AI summarization (GPT-4o)
-- Voice Q&A support
-- Multi-language support
-- Gamified learning flow
-
----
-
-### 🔹 Smart Health Monitoring System
-Technology-enabled system for real-time public health data integration.
-- Centralized data architecture
-- Disease surveillance model
-- Analytics-driven dashboards
-
----
-
-### 🔹 AgriRise — Smart Farming Companion
-AI-powered mobile platform supporting rural farmers.
-- Soil-based crop recommendations
-- Market price tracking
-- Local language educational support
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yamuna-6730&show_icons=true&theme=tokyonight)
+### 🚀 Deployment
+- Vercel
+- Netlify
+- GitHub Pages
 
 ---
 
@@ -107,12 +101,12 @@ You can download my latest resume here:
 
 ## 🚀 Deployment
 
-This portfolio is deployed using [Your platform: Vercel / Netlify / GitHub Pages].
+This portfolio is deployed using Vercel.
 
 To run locally:
 
 ```bash
-git clone https://github.com/Yamuna-6730/your-repo-name.git
+git clone https://github.com/Yamuna-6730/yamuna-portfolio.git
 cd your-repo-name
 npm install
 npm run dev
